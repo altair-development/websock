@@ -7,7 +7,7 @@ WebSocket通信専用サーバーモジュール。ユーザーはログイン�
 - npm socket.ioライブラリ
 
 ## How to use
-まず最初に下記のコマンドを実行しaltairレポジトリをクローンします。  
+まず最初に下記のコマンドを実行しwebsockレポジトリをクローンします。  
 ※下記手順を実施する前に[altair/docker](https://github.com/altair-development/docker)のリソースを使ってRedisサーバーが起動していることを確認してください。
 ```
 git clone https://github.com/altair-development/websock.git
